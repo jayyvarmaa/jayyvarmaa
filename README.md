@@ -1,5 +1,5 @@
  
-##Hi! I'm Jay Varma 😁
+## Hi! I'm Jay Varma 😁
 
 💻 Computer science student who spends more time with bugs than people  
 🎮 Indie game dev at VarmaBrothers, turning caffeine into code and chaos  
