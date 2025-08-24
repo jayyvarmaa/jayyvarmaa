@@ -1,4 +1,4 @@
-[# 💫 About Me:
+## 💫 About Me:
 💻 Computer science student who spends more time with bugs than people<br>🎮 Indie game dev at VarmaBrothers, turning caffeine into code and chaos<br>🛠 I craft immersive worlds in Unity & Unreal—because real life doesn't respawn
 
 
